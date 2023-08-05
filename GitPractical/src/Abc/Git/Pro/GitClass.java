@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	System.out.println("Hello word");
 
 	GitClass g = new GitClass();
-	g.m1;
+	g.m1();
 	
 }
 }
